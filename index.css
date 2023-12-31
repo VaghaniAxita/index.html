@@ -2,6 +2,14 @@
     background-color: rgb(245, 224, 181);
 }
 
+header {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 3px 3px rgb(240, 186, 133);
+    color: rgb(101, 28, 1);
+}
+
 #box {
     border: 1px solid black;
     max-width: 1000th;
@@ -19,6 +27,7 @@
     display: inline-block;
     vertical-align: top;
     box-shadow: 5px 5px rgb(203, 203, 230);
+    margin-left: 75px;
 }
 
 #img1 {
